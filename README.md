@@ -3,12 +3,13 @@ This is my memo. I write it because the specification of Actions on Google and D
 # This tutorial goal
 Talk to google home that use dialogflow in Actions on Google
 
-# Actions on goole init set up
+# Actions on google init set up
 Sign in Actions on Google. Then, please select "Add/import project"![screenshot from 2018-03-03 15-50-48](https://user-images.githubusercontent.com/24353841/36931520-c2622f4e-1efa-11e8-8ecf-afdd209cb2df.png)
-input project name that you like. And select contry/region that you live
+input project name that you like. And select contry/region that you live.
 ![screenshot from 2018-03-03 15-52-56](https://user-images.githubusercontent.com/24353841/36931536-2a155d6e-1efb-11e8-9c33-d256a5a8e5a3.png)
 After that, build custom application of Dialogflow
 ![screenshot from 2018-03-03 15-59-48](https://user-images.githubusercontent.com/24353841/36931581-3a1af362-1efc-11e8-8398-a6c73530abfd.png)
+
 Then you can see a view like below. please select "CREATE ACTIONS ON DIALOGFLOW".
 after that, sign in to dialogflow
 ![image](https://user-images.githubusercontent.com/24353841/36931615-fc089736-1efc-11e8-8062-ebcec668e2fa.png)
