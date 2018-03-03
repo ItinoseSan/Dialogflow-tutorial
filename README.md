@@ -17,7 +17,7 @@ after that, sign in to dialogflow
 ![image](https://user-images.githubusercontent.com/24353841/36931615-fc089736-1efc-11e8-8062-ebcec668e2fa.png)
 
 # Dialogflow set up
-Create Agent 
+Create Agent. 
 ![screenshot from 2018-03-03 16-11-39](https://user-images.githubusercontent.com/24353841/36931633-a0d5e2d2-1efd-11e8-8e6d-133bbb79fd19.png)
 After that, add intent
 ## Intent setting
@@ -28,13 +28,13 @@ Training phrases is before "User Says"
 Response is reponse from GoogleHome
 ![screenshot from 2018-03-03 16-15-52](https://user-images.githubusercontent.com/24353841/36931658-39e4526a-1efe-11e8-9c50-4fc2c7756250.png)
 
-Enable to use dialogflow intent in Google Home, set up integration
+Enable to use dialogflow intent in integration setting
 ![screenshot from 2018-03-03 16-20-36](https://user-images.githubusercontent.com/24353841/36931700-e48bddb4-1efe-11e8-9e00-2259015cd48c.png)
-When you added intent that you made, please select "TEST". At that time, launch  custom application simulator.
+When you added intent that you made, please select "TEST". At that time, launch custom application simulator.
 ![screenshot from 2018-03-03 16-24-54](https://user-images.githubusercontent.com/24353841/36931734-81daefe2-1eff-11e8-9048-968763663ff3.png)
 
 # Demo
-If you launch simulator, you can talking directly to  GoogleHome
+If you launch simulator, you can talking to GoogleHome directly or simulator chat 
 ![screenshot from 2018-03-03 16-33-49](https://user-images.githubusercontent.com/24353841/36931778-b91c637c-1f00-11e8-801f-429f7003fb4f.png)
 
 Enjoy;)
