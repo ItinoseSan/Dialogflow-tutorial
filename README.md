@@ -5,7 +5,7 @@ The specification of Actions on Google and Dialogflow happened a little change
 # This tutorial goal
 Talk to google home that use dialogflow in Actions on Google
 
-# Actions on google init set up
+# Actions on google set up
 Sign in Actions on Google. Then, please select "Add/import project".
 ![screenshot from 2018-03-03 15-50-48](https://user-images.githubusercontent.com/24353841/36931520-c2622f4e-1efa-11e8-8ecf-afdd209cb2df.png)
 Input project name that you like. And select contry/region that you live.
